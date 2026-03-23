@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace MS\LTI1p3\DynamicRegistration\Model;
+namespace MS\LTI1p3\DynamicRegistration\Model\MessageType;
 
 use JsonSerializable;
 use MS\LTI1p3\DynamicRegistration\Util\Collection\CollectionInterface;
